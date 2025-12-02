@@ -1,5 +1,5 @@
 -- =============================================
--- Projeto: Streaming
+-- Projeto: Streaming Service
 -- Descrição: Projeto de banco de dados relacional para um sistema de streaming de vídeos
 -- Autores: Matheus Marques, Wesley Freitas, Isaque Silva
 -- Data: 02/12/2025
